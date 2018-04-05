@@ -9,6 +9,6 @@ describe('angular5-router-app App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('Welcome to app!');
+    expect(page.getParagraphText()).toEqual('Welcome to Angular5 Router Sample Application!!!');
   });
 });
