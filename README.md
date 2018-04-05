@@ -1,5 +1,7 @@
 # Angular5RouterApp
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pradeep0601/Angular5-Router-App.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
 ## Development server
